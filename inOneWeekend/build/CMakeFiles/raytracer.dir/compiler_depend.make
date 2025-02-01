@@ -957,8 +957,17 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/seanchoi/RayTracing/inOneWeekend/main
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/limits.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stddef.h \
-  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h \
+  /Users/seanchoi/RayTracing/inOneWeekend/color.h \
+  /Users/seanchoi/RayTracing/inOneWeekend/ray.h \
+  /Users/seanchoi/RayTracing/inOneWeekend/vec3.h
 
+
+/Users/seanchoi/RayTracing/inOneWeekend/vec3.h:
+
+/Users/seanchoi/RayTracing/inOneWeekend/ray.h:
+
+/Users/seanchoi/RayTracing/inOneWeekend/color.h:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h:
 
