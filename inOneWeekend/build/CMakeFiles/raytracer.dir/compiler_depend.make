@@ -958,16 +958,28 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/seanchoi/RayTracing/inOneWeekend/main
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h \
+  /Users/seanchoi/RayTracing/inOneWeekend/camera.h \
   /Users/seanchoi/RayTracing/inOneWeekend/color.h \
+  /Users/seanchoi/RayTracing/inOneWeekend/hittable.h \
+  /Users/seanchoi/RayTracing/inOneWeekend/hittable_list.h \
+  /Users/seanchoi/RayTracing/inOneWeekend/interval.h \
   /Users/seanchoi/RayTracing/inOneWeekend/ray.h \
+  /Users/seanchoi/RayTracing/inOneWeekend/rtweekend.h \
+  /Users/seanchoi/RayTracing/inOneWeekend/sphere.h \
   /Users/seanchoi/RayTracing/inOneWeekend/vec3.h
 
 
 /Users/seanchoi/RayTracing/inOneWeekend/vec3.h:
 
+/Users/seanchoi/RayTracing/inOneWeekend/rtweekend.h:
+
 /Users/seanchoi/RayTracing/inOneWeekend/ray.h:
 
+/Users/seanchoi/RayTracing/inOneWeekend/interval.h:
+
 /Users/seanchoi/RayTracing/inOneWeekend/color.h:
+
+/Users/seanchoi/RayTracing/inOneWeekend/camera.h:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h:
 
@@ -1791,6 +1803,8 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/seanchoi/RayTracing/inOneWeekend/main
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__iterator/istreambuf_iterator.h:
 
+/Users/seanchoi/RayTracing/inOneWeekend/hittable.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__type_traits/has_unique_object_representation.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/fold.h:
@@ -2431,6 +2445,8 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/seanchoi/RayTracing/inOneWeekend/main
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__type_traits/common_reference.h:
 
+/Users/seanchoi/RayTracing/inOneWeekend/hittable_list.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/partial_sort.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__memory/temporary_buffer.h:
@@ -2776,6 +2792,8 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/seanchoi/RayTracing/inOneWeekend/main
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/pstl_backends/cpu_backends/for_each.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__type_traits/aligned_union.h:
+
+/Users/seanchoi/RayTracing/inOneWeekend/sphere.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__config_site:
 
