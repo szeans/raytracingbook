@@ -963,5 +963,6 @@ CMakeFiles/raytracer.dir/main.cc.o: \
   /Users/seanchoi/RayTracing/inOneWeekend/ray.h \
   /Users/seanchoi/RayTracing/inOneWeekend/camera.h \
   /Users/seanchoi/RayTracing/inOneWeekend/hittable.h \
+  /Users/seanchoi/RayTracing/inOneWeekend/material.h \
   /Users/seanchoi/RayTracing/inOneWeekend/hittable_list.h \
   /Users/seanchoi/RayTracing/inOneWeekend/sphere.h

@@ -963,6 +963,7 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/seanchoi/RayTracing/inOneWeekend/main
   /Users/seanchoi/RayTracing/inOneWeekend/hittable.h \
   /Users/seanchoi/RayTracing/inOneWeekend/hittable_list.h \
   /Users/seanchoi/RayTracing/inOneWeekend/interval.h \
+  /Users/seanchoi/RayTracing/inOneWeekend/material.h \
   /Users/seanchoi/RayTracing/inOneWeekend/ray.h \
   /Users/seanchoi/RayTracing/inOneWeekend/rtweekend.h \
   /Users/seanchoi/RayTracing/inOneWeekend/sphere.h \
@@ -974,6 +975,8 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/seanchoi/RayTracing/inOneWeekend/main
 /Users/seanchoi/RayTracing/inOneWeekend/rtweekend.h:
 
 /Users/seanchoi/RayTracing/inOneWeekend/ray.h:
+
+/Users/seanchoi/RayTracing/inOneWeekend/material.h:
 
 /Users/seanchoi/RayTracing/inOneWeekend/interval.h:
 
